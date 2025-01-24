@@ -3,10 +3,39 @@
     <title>Yazin</title>
     <link href="https://kozan.news/feed.xml" rel="self" />
     <link href="https://kozan.news" />
-    <updated>1970-01-01T02:00:00+02:00</updated>
+    <updated>2025-01-24T23:00:29+03:00</updated>
     <author>
         <name>Umut Yazar</name>
     </author>
     <id>https://kozan.news</id>
 
+    <entry>
+        <title>Deneme AQ</title>
+        <author>
+            <name>Umut Yazar</name>
+        </author>
+        <link href="https://kozan.news/deneme-aq/"/>
+        <id>https://kozan.news/deneme-aq/</id>
+        <media:content url="https://kozan.news/media/posts/315/adana-valiligi.jpeg" medium="image" />
+
+        <updated>2025-01-24T23:00:29+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://kozan.news/media/posts/315/adana-valiligi.jpeg" alt="" />
+                    Bu bir deneme yazısıdır. Bu bir deneme yazısıdır. Bu bir deneme yazısıdır. Bu bir deneme yazısıdır. Bu bir deneme yazısıdır. Bu bir deneme yazısıdır. Bu bir deneme yazısıdır. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://kozan.news/media/posts/315/adana-valiligi.jpeg" class="type:primaryImage" alt="" /></p>
+                <p>Bu bir deneme yazısıdır. </p>
+<p>Bu bir deneme yazısıdır. </p>
+<p>Bu bir deneme yazısıdır. </p>
+<p>Bu bir deneme yazısıdır. </p>
+<p>Bu bir deneme yazısıdır. </p>
+<p>Bu bir deneme yazısıdır. </p>
+<p>Bu bir deneme yazısıdır. </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
