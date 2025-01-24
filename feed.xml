@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Yazin</title>
-    <link href="https://uyasar.github.io/yazin/feed.xml" rel="self" />
-    <link href="https://uyasar.github.io/yazin" />
+    <link href="https://kozan.news/feed.xml" rel="self" />
+    <link href="https://kozan.news" />
     <updated>2025-01-24T22:04:07+03:00</updated>
     <author>
         <name>Umut Yazar</name>
     </author>
-    <id>https://uyasar.github.io/yazin</id>
+    <id>https://kozan.news</id>
 
     <entry>
         <title>2. deneme yazısı</title>
         <author>
             <name>Umut Yazar</name>
         </author>
-        <link href="https://uyasar.github.io/yazin/2-deneme-yazisi/"/>
-        <id>https://uyasar.github.io/yazin/2-deneme-yazisi/</id>
+        <link href="https://kozan.news/2-deneme-yazisi/"/>
+        <id>https://kozan.news/2-deneme-yazisi/</id>
 
         <updated>2025-01-24T22:04:07+03:00</updated>
             <summary>
@@ -36,8 +36,8 @@
         <author>
             <name>Umut Yazar</name>
         </author>
-        <link href="https://uyasar.github.io/yazin/deneme-yazisi/"/>
-        <id>https://uyasar.github.io/yazin/deneme-yazisi/</id>
+        <link href="https://kozan.news/deneme-yazisi/"/>
+        <id>https://kozan.news/deneme-yazisi/</id>
 
         <updated>2025-01-24T21:55:17+03:00</updated>
             <summary>
