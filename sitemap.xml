@@ -757,10 +757,6 @@
 </image:image>
 </url>
 <url>
-<loc>https://kozan.news/gezinti/</loc>
-<lastmod>2025-01-24T22:31:11+03:00</lastmod>
-</url>
-<url>
 <loc>https://kozan.news/goebelli-mahallesinde-hattat-haci-hasan-fevzi-el-kozani-anildi/</loc>
 <lastmod>2025-01-24T22:41:48+03:00</lastmod>
 </url>
@@ -1090,7 +1086,11 @@
 </url>
 <url>
 <loc>https://kozan.news/kozanda-12-mart-istiklal-marsinin-kabulue-ve-mehmet-akif-ersoyu-anma-programi-duezenlendi/</loc>
-<lastmod>2025-01-24T22:41:47+03:00</lastmod>
+<lastmod>2025-01-24T22:53:02+03:00</lastmod>
+<image:image>
+<image:loc>https://kozan.news/media/posts/7/Ekran-g-r-nt-s-2024-06-05-13342.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://kozan.news/kozanda-18-okulun-mueduerue-degisti-bir-okulun-mueduerue-seyhana-atandi/</loc>
@@ -1523,10 +1523,6 @@
 <image:loc>https://kozan.news/media/posts/242/osmaniye.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
-</url>
-<url>
-<loc>https://kozan.news/otoban/</loc>
-<lastmod>2025-01-24T22:31:00+03:00</lastmod>
 </url>
 <url>
 <loc>https://kozan.news/prof-dr-sueleyman-pampal-deprem-riskini-adanalilarla-degerlendirdi/</loc>
